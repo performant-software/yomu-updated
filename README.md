@@ -2,9 +2,11 @@
 [![Code Climate Score](http://img.shields.io/codeclimate/github/Erol/yomu.svg?style=flat)](https://codeclimate.com/github/Erol/yomu)
 [![Gem Version](http://img.shields.io/gem/v/yomu.svg?style=flat)](#)
 
-# Yomu 読む
+# Yomu 読む Updated
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Erol/yomu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+This is a fork of the `yomu` gem that updates its Gemfile to accept versions of `json` greater than 2.
+
+COVE Studio pulls this repo directly so please don't touch it!
 
 [Yomu](http://erol.github.com/yomu) is a library for extracting text and metadata from files and documents using the [Apache Tika](http://tika.apache.org/) content analysis toolkit.
 
